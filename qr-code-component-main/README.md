@@ -27,7 +27,7 @@ Overview
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://saviourjr.github.io/Qr-Challenge/qr-code-component-main/index.html]()
  My process
 
 Built with
